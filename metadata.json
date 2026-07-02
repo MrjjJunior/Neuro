@@ -1,0 +1,10 @@
+{
+  "name": "NeuroGaze AI",
+  "description": "Pupillary light reflex and facial symmetry neurological screening aid for rapid stroke and brain injury risk screening.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
